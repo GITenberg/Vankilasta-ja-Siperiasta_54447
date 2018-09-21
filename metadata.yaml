@@ -1,5 +1,8 @@
 _repo: Vankilasta-ja-Siperiasta_54447
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Relander, Oskar
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '8119'
     url: http://www.gutenberg.org/2009/agents/8119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54447#Vankilasta-ja-Siperiasta
 gutenberg_issued: '2017-03-28'
 gutenberg_type: Text
 identifiers:
